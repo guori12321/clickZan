@@ -23,9 +23,9 @@
 请浏览[开发者的博客](http://ruiguo.me/blog/2013/12/28/dian-zan-kuang-mo-de-kai-fa/)。
 
 ## Contributor
-Rui Guo : [github@ruiguo.me](github@ruiguo.me)
+Rui Guo : github@ruiguo.me
 
-GroundMelon : [GroundMelon](GroundMelon@gmail.com)
+GroundMelon : GroundMelon@gmail.com
 
 ## Licence
 MIT
